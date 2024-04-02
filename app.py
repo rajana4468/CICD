@@ -7,4 +7,4 @@ def hello():
     return 'Hello  World!, Iam Sai Krishna rajana'
 
 if __name__ == '__main__':
-    app.run()
+    app.run(debug = False)
